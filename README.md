@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalithya</h1>
 <h3 align="center">A passionate Learner from India</h3>
 🌱I am currently a enthusiastic learner.
-i am currectly working on web development .
+I am currectly working on web development .
 
 📫 How to reach me **lalithya1509@gmail.com**
 
