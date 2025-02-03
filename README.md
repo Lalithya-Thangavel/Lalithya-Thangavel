@@ -3,7 +3,7 @@
 🌱I am currently a enthusiastic learner.
 I am currectly working on web development .
 
-📫 Reach me out through **lalithya1509@gmail.com**
+📫 Reach me out through **lalithyathangavel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
